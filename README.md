@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **radheshyamghanta006@gmail.com**
 
