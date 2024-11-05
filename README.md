@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **radheshyamghanta006@gmail.com**
 
